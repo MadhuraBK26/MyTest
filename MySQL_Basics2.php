@@ -16,7 +16,7 @@ $order = "INSERT INTO trial
 
           ('madhu',
 
-           'saligrama')";
+           'udupi')";
 
 
 $result = mysql_query($order);
